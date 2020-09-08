@@ -4,4 +4,4 @@
 - :books: I’m currently learning C#, PHP and Python;
 - :blue_heart: I love to learn new things, play on the PC and play bass;
 - 📫 How to reach me: MaxPresi everywhere :eyes:;
-- :bug: I make unnoficial translations of games and mods.
+- :bug: I make unofficial translations of games and mods.
